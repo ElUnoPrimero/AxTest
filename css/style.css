@@ -1889,10 +1889,10 @@ h1 .title_text:nth-of-type(4) span{
 }
 @media screen and (max-width: 769px) {
   .burger-menu__container {
-    height: auto;
+    height: 100%;
     padding: 20px;
     justify-content: flex-start;
-    overflow-y: scroll;
+    overflow-y: auto;
   }
 }
 
