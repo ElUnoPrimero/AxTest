@@ -1929,7 +1929,8 @@ h1 .title_text:nth-of-type(4) span{
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    flex: 1;
+    /*flex: 1;*/
+    height: 100%;
   }
 }
 
